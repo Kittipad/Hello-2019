@@ -1,6 +1,4 @@
-﻿## Welcome to GitHub Pages
-
-THIS IS A CHANGE IN GITHUB DESKTOP.
+## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Kittipad/Hello-2019/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
